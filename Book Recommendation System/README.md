@@ -34,7 +34,7 @@ These files are merged and cleaned to form the final dataset used in this projec
 ```bash
 pip install numpy pandas matplotlib seaborn
 ```
-3. Open the notebook: **P5_Book_Recommender_System.ipynb**
+3. Open the notebook: **Book_Recommender_System.ipynb**
 
 **Happy Learning and Exploring!** 📘✨
 
