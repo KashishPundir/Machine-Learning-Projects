@@ -60,3 +60,16 @@ This will start a local web server and automatically open the application in you
 ├── requirements.txt                       # List of Python dependencies for reproducibility
 └── README.md               
 ```
+## **🤝 Contributing:**
+
+Contributions are welcome. If you’d like to improve the project:
+
+- Fork the repository
+- Create a new branch
+- Make your changes
+- Submit a pull request
+  
+## **📜 License:**
+
+This project is for educational purposes. You may modify and use it with proper attribution.
+
