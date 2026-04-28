@@ -40,7 +40,7 @@ python -m venv venv
 pip install -r requirements.txt
 ```
 
-# 🏃‍♂️**How to Run the Application:**
+## 🏃‍♂️**How to Run the Application:**
 Once the setup is complete, you can launch the Streamlit web application with a single command.
 
 Make sure you are in the root directory of the project and your virtual environment is activated. Then run:
@@ -51,11 +51,12 @@ streamlit run app.py
 
 This will start a local web server and automatically open the application in your default web browser!
 
-📂 Project Structure
-.
-├── final_model.joblib      # Saved final machine learning model
-├── scaler.joblib           # Saved data scaler
-├── app.py                  # The Python script for the Streamlit web application
+## 📂 **Project Structure:**
+```
+├── final_model.joblib                     # Saved final machine learning model
+├── scaler.joblib                          # Saved data scaler
+├── app.py                                 # The Python script for the Streamlit web application
 ├── Real Estate Price Prediction.ipynb     # Jupyter Notebook with the full ML workflow (analysis, training, etc.)
-├── requirements.txt        # List of Python dependencies for reproducibility
+├── requirements.txt                       # List of Python dependencies for reproducibility
 └── README.md               
+```
