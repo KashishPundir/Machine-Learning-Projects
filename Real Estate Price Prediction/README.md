@@ -23,8 +23,9 @@ To run this application locally, you'll need to set up a Python virtual environm
 
 **1. Clone the repository (or download the source code):**
 ```bash
-git clone real_estate_price_prediction
-cd real_estate_price_prediction
+git clone https://github.com/KashishPundir/Machine-Learning-Projects.git
+cd Machine-Learning-Projects
+cd Real Estate Price Prediction
 ```
 
 **2. Create and activate a Python virtual environment: This keeps the project's dependencies isolated.**
